@@ -1,4 +1,4 @@
-Git Your Practice On with Rails!
+Git Your Practice On with Rails5!
 ============
 
 ** Please do not change the database from sqlite3 in dev/test.**
