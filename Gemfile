@@ -1,9 +1,7 @@
 source 'https://rubygems.org'
 
 # Rails 5.0
-gem 'rails',      github: 'rails/rails'
-gem 'rack',       github: 'rack/rack'
-gem 'arel',       github: 'rails/arel'
+gem 'rails', '5.0.0.beta1'
 
 ruby '2.3.0'
 
