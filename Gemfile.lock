@@ -53,7 +53,7 @@ GEM
     builder (3.2.2)
     cane (2.6.2)
       parallel
-    celluloid (0.17.2)
+    celluloid (0.17.3)
       celluloid-essentials
       celluloid-extras
       celluloid-fsm
