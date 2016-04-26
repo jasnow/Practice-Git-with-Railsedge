@@ -1,9 +1,8 @@
 source 'https://rubygems.org'
 
-# Rails 5.0
 gem 'rails', '5.0.0.beta3'
 
-ruby '2.3.0'
+ruby '2.3.1'
 
 gem 'sqlite3'
 gem 'uglifier'
