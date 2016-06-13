@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-PracticeGitWithRails5::Application.load_tasks
+PracticeGitWithRails5edge::Application.load_tasks
