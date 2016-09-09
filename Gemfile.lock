@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/rails/rails.git
+  remote: https://github.com/rails/rails
   revision: cf5f55cd30aef0f90300c7c8f333060fe258cd8a
   specs:
     actioncable (5.1.0.alpha)
