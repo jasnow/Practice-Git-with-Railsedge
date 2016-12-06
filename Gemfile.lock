@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: d7f55e987849c5a17f9d3152abd4fbacac08a509
+  revision: cf6c2948d5e0e0d40a03f6858179a659a0a6ed7a
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
@@ -180,7 +180,7 @@ GEM
       nokogiri (~> 1.6.0)
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
-    rake (11.3.0)
+    rake (12.0.0)
     ruby_parser (3.8.3)
       sexp_processor (~> 4.1)
     sexp_processor (4.7.0)
