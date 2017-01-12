@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'i18n', '0.8.0.beta1' # TEMP
-gem 'json', '2.0.2' # LOCKED DOWN
 
 gem 'rails', git: 'https://github.com/rails/rails'
 gem 'arel', git: 'https://github.com/rails/arel'
