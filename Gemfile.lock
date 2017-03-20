@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 8a808d5ca0c1e1e2e256a16da3b4ff9a95bcc525
+  revision: 1835d87fb848fd9f13e43bf16abd41be231b1666
   specs:
     actioncable (5.1.0.beta1)
       actionpack (= 5.1.0.beta1)
@@ -164,7 +164,7 @@ GEM
     minitest (5.10.1)
     multi_json (1.12.1)
     nio4r (2.0.0)
-    nokogiri (1.7.0.1)
+    nokogiri (1.7.1)
       mini_portile2 (~> 2.1.0)
     overcommit (0.38.0)
       childprocess (~> 0.5.8)
