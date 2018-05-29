@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 36390b6bdc75fca70e7a9d74c6270e3f40e77799
+  revision: 56429f1e4dd6c3fd8fcdee4a7abc1eff1ea142ee
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -214,7 +214,7 @@ GEM
       thread_safe (~> 0.1)
     uglifier (4.1.10)
       execjs (>= 0.3.0, < 3)
-    unicode-display_width (1.3.2)
+    unicode-display_width (1.3.3)
     uuidtools (2.1.5)
     websocket-driver (0.7.0)
       websocket-extensions (>= 0.1.0)
