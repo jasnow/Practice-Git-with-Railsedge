@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: ade479f2b5c49c7906f60cec339cb7a8aafd502a
+  revision: 9e34df00039d63b5672315419e76f06f80ef3dc4
   specs:
     actioncable (6.0.0.alpha)
       actionpack (= 6.0.0.alpha)
@@ -133,7 +133,7 @@ GEM
     overcommit (0.46.0)
       childprocess (~> 0.6, >= 0.6.3)
       iniparse (~> 1.4)
-    parallel (1.12.1)
+    parallel (1.13.0)
     ptools (1.3.5)
     rack (2.0.6)
     rack-test (1.1.0)
