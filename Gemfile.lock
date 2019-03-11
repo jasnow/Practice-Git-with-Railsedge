@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 08a93efab6bdf10ba7afafb6e51f4b7809c97ebc
+  revision: 2259b486f173e3259a9c3871803b6aecdd74b81f
   specs:
     actioncable (6.0.0.beta2)
       actionpack (= 6.0.0.beta2)
@@ -86,7 +86,7 @@ GEM
       parallel
     childprocess (0.9.0)
       ffi (~> 1.0, >= 1.0.11)
-    concurrent-ruby (1.1.4)
+    concurrent-ruby (1.1.5)
     crass (1.0.4)
     cvss (0.99.0)
     dawnscanner (1.6.9)
