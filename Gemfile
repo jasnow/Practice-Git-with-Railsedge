@@ -10,6 +10,4 @@ gem 'jquery-rails'
 gem 'cane'
 gem 'overcommit'
 
-group :development do
-  gem 'dawnscanner', require: false
-end
+gem 'dawnscanner', require: false
