@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 22c2d6011f5ae56771400561fc926ce7600210c7
+  revision: d30579e12b71c5d733aa7fbfd778f6b656912372
   specs:
     actioncable (6.1.0.alpha)
       actionpack (= 6.1.0.alpha)
@@ -146,9 +146,9 @@ GEM
     rails-html-sanitizer (1.2.0)
       loofah (~> 2.2, >= 2.2.2)
     rake (12.3.3)
-    ruby_parser (3.13.1)
+    ruby_parser (3.14.0)
       sexp_processor (~> 4.9)
-    sexp_processor (4.12.1)
+    sexp_processor (4.13.0)
     sprockets (3.7.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
