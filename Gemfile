@@ -9,5 +9,6 @@ gem 'uglifier'
 gem 'jquery-rails'
 gem 'cane'
 gem 'overcommit'
+gem 'brakeman'
 
 gem 'dawnscanner', require: false
