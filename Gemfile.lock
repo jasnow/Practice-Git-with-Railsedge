@@ -85,7 +85,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    brakeman (4.7.1)
+    brakeman (4.7.2)
     builder (3.2.3)
     cane (3.0.0)
       parallel
