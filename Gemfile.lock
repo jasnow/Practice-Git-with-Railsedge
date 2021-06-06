@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: d5f517c136858e83adc209775416176ca5dda677
+  revision: 0c1ed54a2ad02a14433fda0655a2ead399d06c9e
   branch: main
   specs:
     actioncable (7.0.0.alpha)
@@ -92,7 +92,7 @@ GEM
     cane (3.0.0)
       parallel
     childprocess (4.0.0)
-    concurrent-ruby (1.1.8)
+    concurrent-ruby (1.1.9)
     crass (1.0.6)
     cvss (0.99.0)
     dawnscanner (1.6.9)
