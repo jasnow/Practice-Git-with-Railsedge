@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: de1a8314b330ac571f9082cfaa978bd2aa45b832
+  revision: 6ab55ea18b2c6cc3828a4f038bd6df25cb7b8c9e
   branch: main
   specs:
     actioncable (7.0.0.alpha2)
@@ -152,8 +152,8 @@ GEM
       loofah (~> 2.3)
     rake (13.0.6)
     rexml (3.2.5)
-    ruby_parser (3.17.0)
-      sexp_processor (~> 4.15, >= 4.15.1)
+    ruby_parser (3.18.0)
+      sexp_processor (~> 4.16)
     sexp_processor (4.16.0)
     sqlite3 (1.4.2)
     sys-uname (1.2.2)
