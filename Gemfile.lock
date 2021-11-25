@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: 4b6ac01fbb2ed0d0444654bba062d1e2ae88ffe7
+  revision: d0b53aa90dcb37b2283d1ea9c0d25bf1c2e7a90d
   branch: main
   specs:
     actioncable (7.0.0.alpha2)
@@ -34,6 +34,7 @@ GIT
       activerecord (= 7.0.0.alpha2)
       activestorage (= 7.0.0.alpha2)
       activesupport (= 7.0.0.alpha2)
+      globalid (>= 0.6.0)
       nokogiri (>= 1.8.5)
     actionview (7.0.0.alpha2)
       activesupport (= 7.0.0.alpha2)
@@ -107,7 +108,7 @@ GEM
     erubi (1.10.0)
     execjs (2.8.1)
     ffi (1.15.4)
-    globalid (0.5.2)
+    globalid (0.6.0)
       activesupport (>= 5.0)
     haml (5.2.2)
       temple (>= 0.8.0)
@@ -161,7 +162,7 @@ GEM
     temple (0.8.2)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
-    terser (1.1.7)
+    terser (1.1.8)
       execjs (>= 0.3.0, < 3)
     thor (1.1.0)
     tilt (2.0.10)
