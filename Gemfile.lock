@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails
-  revision: c48d846518e77fbdcc3d411bc24cbeb2d90fd04e
+  revision: aed8feae3b7a3f7df59de69355cc3bda1d5479d6
   branch: main
   specs:
     actioncable (7.1.0.alpha)
@@ -131,7 +131,7 @@ GEM
       thor (>= 0.14, < 2.0)
     justify (1.0.2)
     logger-colors (1.0.0)
-    loofah (2.14.0)
+    loofah (2.15.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.7.1)
