@@ -36,7 +36,4 @@ Rails.application.configure do
 
   # For Rails 4.2+
   config.active_support.test_order = :sorted
-
-  # For Rails 6.1+
-  config.active_record.legacy_connection_handling = false
 end
