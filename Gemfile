@@ -1,14 +1,16 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'rails', git: 'https://github.com/rails/rails', branch: 'main'
+gem "rails", git: "https://github.com/rails/rails", branch: "main"
 
-ruby '3.2.0'
+ruby "3.2.0"
 
-gem 'sqlite3'
-gem 'terser'
-gem 'jquery-rails'
-gem 'cane'
-gem 'overcommit'
-gem 'brakeman'
+gem "sqlite3"
+gem "terser"
+gem "jquery-rails"
+gem "cane"
+gem "overcommit"
+gem "brakeman"
 
-gem 'dawnscanner', require: false
+gem "dawnscanner", require: false
+
+gem "standard", group: [:development, :test]
