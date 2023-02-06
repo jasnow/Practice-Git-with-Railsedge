@@ -4,4 +4,6 @@
 
 require File.expand_path("../config/application", __FILE__)
 
+require "standard/rake"
+
 PracticeGitWithRails5edge::Application.load_tasks
