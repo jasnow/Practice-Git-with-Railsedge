@@ -13,5 +13,6 @@ gem "brakeman"
 
 gem "dawnscanner", require: false
 gem "ruby_audit"
+gem "spektr"
 
 gem "standard", group: [:development, :test]
