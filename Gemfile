@@ -10,6 +10,7 @@ gem "jquery-rails"
 gem "cane"
 gem "overcommit"
 gem "brakeman"
+gem 'sprockets-rails'
 
 gem "dawnscanner", require: false
 gem "ruby_audit"
