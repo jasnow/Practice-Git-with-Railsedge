@@ -16,4 +16,5 @@ gem "dawnscanner", require: false
 gem "ruby_audit"
 gem "spektr"
 
+gem 'simplecov', require: false, group: :test
 gem "standard", group: [:development, :test]
